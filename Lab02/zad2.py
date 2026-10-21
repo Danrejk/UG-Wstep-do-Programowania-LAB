@@ -1,0 +1,5 @@
+print("""Miauczy kotek: miau!
+- Coś ty, kotku, miał?
+- Miałem ja miseczkę mleczka,
+Teraz pusta jest miseczka,
+A jeszcze bym chciał.""")

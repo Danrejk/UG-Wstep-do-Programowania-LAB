@@ -1,0 +1,7 @@
+a)
+pierwszy warunek
+został spełniony
+
+b)
+został spełniony
+pierwszy i drugi warunek
