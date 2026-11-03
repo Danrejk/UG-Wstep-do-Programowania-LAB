@@ -1,0 +1,26 @@
+a)
+1
+2
+3
+4
+5
+i is no longer less than 6
+
+b)
+Aktualny numer to 1
+Aktualny numer to 2
+Aktualny numer to 3
+Aktualny numer to 4
+Jestem poza pętlą
+
+c)
+Aktualny numer to 1
+Aktualny numer to 2
+Aktualny numer to 3
+Aktualny numer to 4
+Aktualny numer to 6
+Aktualny numer to 7
+Aktualny numer to 8
+Aktualny numer to 9
+Aktualny numer to 10
+Jestem poza pętlą
