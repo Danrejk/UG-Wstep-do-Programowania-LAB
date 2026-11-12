@@ -1,3 +1,0 @@
-Krotek używamy, gdy zestaw danych ma stałą długość i nie powinien być modyfikowany (np. współrzędne, dni tygodnia, stałe), a także gdy potrzebujemy niemodyfikowalnych elementów jako kluczy w słownikach.
-
-List używamy, gdy kolekcja danych jest dynamiczna i w trakcie działania programu elementy będą dodawane, usuwane, modyfikowane lub sortowane.
